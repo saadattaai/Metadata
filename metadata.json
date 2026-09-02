@@ -1,0 +1,6 @@
+{
+  "name": "Saad Edits",
+  "description": "Professional web-based automatic video editing tool with FFmpeg processing, iOS 17 device profile metadata, and instant downloads without sign-in.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
